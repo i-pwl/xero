@@ -1,0 +1,17 @@
+name: xero
+id: com.ipwl.xero
+depends: mobilesubstrate
+architecture: iphoneos-arm
+version: 0.0.1
+description: unparalleled device customization.
+author: ipwl
+section: Tweaks
+archs: arm64 arm64e
+
+xero:
+  type: tweak
+  filter:
+    executables:
+    - SpringBoard
+  files:
+  - xero.x
