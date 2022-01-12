@@ -1,0 +1,10 @@
+Architecture: iphoneos-arm
+Author: ipwl
+Depends: mobilesubstrate
+Description: unparalleled device customization.
+Maintainer: ipwl
+Name: xero
+Package: com.ipwl.xero
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 180	.dragon/_

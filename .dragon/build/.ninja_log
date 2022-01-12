@@ -1,0 +1,25 @@
+# ninja log v5
+359	363	1641935696403213705	.dragon/sign/.dragon/_/Library/MobileSubstrate/DynamicLibraries/xero.dylib.unsym	bc50b8ae7de8e6e
+363	367	1641935696406547038	.dragon/sign/.dragon/_/Library/MobileSubstrate/DynamicLibraries/xero.dylib.unsigned	a994703f5220d546
+56	191	1641935696226547039	.dragon/build/arm64e/xero.x.m.o	5c4af3b27530a215
+191	359	1641935696393213705	.dragon/build/xero.arm64e	eced822ca0f17421
+0	82	1641677714651688153	.dragon/build/arm64e/xeroini.m.o	dd4fc83304130465
+191	359	1641935696396547039	.dragon/build/xero.arm64	3753ed3a6c386455
+0	56	1641935696093213705	.dragon/build/logos/xero.x.m	57523280b5396e5
+56	191	1641935696226547039	.dragon/build/arm64/xero.x.m.o	af073a9f781ccd8f
+0	76	1641677714648354819	.dragon/build/arm64/xeroini.m.o	7690090d8cbcd04e
+367	374	1641935696413213705	.dragon/_/Library/MobileSubstrate/DynamicLibraries/xero.dylib	4eaef2fad548df76
+0	38	0	stage	f23b1d97dd6eaaf8
+0	42	0	stage	f23b1d97dd6eaaf8
+0	8	1641935727749880382	.dragon/_/Library/MobileSubstrate/DynamicLibraries/xero.dylib	4eaef2fad548df76
+0	40	0	stage	f23b1d97dd6eaaf8
+0	54	1641935794626547069	.dragon/build/logos/xero.x.m	57523280b5396e5
+0	54	1641935815026547075	.dragon/build/logos/xero.x.m	57523280b5396e5
+54	135	1641935815103213742	.dragon/build/arm64/xero.x.m.o	af073a9f781ccd8f
+54	152	1641935815119880408	.dragon/build/arm64e/xero.x.m.o	5c4af3b27530a215
+135	273	1641935815243213742	.dragon/build/xero.arm64	3753ed3a6c386455
+152	294	1641935815263213742	.dragon/build/xero.arm64e	eced822ca0f17421
+294	297	1641935815269880408	.dragon/sign/.dragon/_/Library/MobileSubstrate/DynamicLibraries/xero.dylib.unsym	bc50b8ae7de8e6e
+297	300	1641935815273213742	.dragon/sign/.dragon/_/Library/MobileSubstrate/DynamicLibraries/xero.dylib.unsigned	a994703f5220d546
+300	307	1641935815279880408	.dragon/_/Library/MobileSubstrate/DynamicLibraries/xero.dylib	4eaef2fad548df76
+0	39	0	stage	f23b1d97dd6eaaf8

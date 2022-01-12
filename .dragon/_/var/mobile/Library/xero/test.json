@@ -1,0 +1,19 @@
+{
+    "view":
+    {
+        "insets": [40, 20, 20, 295],
+        "backgroundColor": "#FFFFFF",
+        "radius": 10,
+        "text": ".20 IN MY HANDY",
+
+        "subview":
+        {
+            "insets": [0,0,527,0],
+            "backgroundColor": "#000000",
+            "textColor": "#FFFFFF",
+            "text": "ELEGANT",
+            "image": "/var/mobile/Library/xero/test.jpg",
+            "fillimage": true
+        }
+    }
+}
